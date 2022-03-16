@@ -1,0 +1,168 @@
+{
+  "products": [
+    {
+      "name": "Wall Connector",
+      "description": "tut description",
+      "price": 12,
+      "picture": "https://www.tesla.com/ns_videos/commerce/content/dam/tesla/CAR_ACCESSORIES/MODEL_3/CHARGING_ADAPTERS/1508484-00-B_0_2000.jpg",
+      "type": "at home",
+      "id": 1
+    },
+    {
+      "name": "Wall Connector Pedestal",
+      "description": "tut description",
+      "price": "55",
+      "picture": "https://www.tesla.com/ns_videos/commerce/content/dam/tesla/CAR_ACCESSORIES/MODEL_S/CHARGING_ADAPTERS/1457768-01-F_0_2000.jpg",
+      "type": "on the road",
+      "id": 2,
+      "comments": []
+    },
+    {
+      "name": "Wall Connector Color Matched",
+      "description": "tut description",
+      "price": 12,
+      "picture": "https://www.tesla.com/ns_videos/commerce/content/dam/tesla/CAR_ACCESSORIES/MODEL_3/CHARGING_ADAPTERS/1551813-10-A_8_2000.jpg",
+      "type": "at home",
+      "id": 3
+    },
+    {
+      "name": "Cable Organizer",
+      "description": "tut description",
+      "price": 12,
+      "picture": "https://www.tesla.com/ns_videos/commerce/content/dam/tesla/CAR_ACCESSORIES/MODEL_S/CHARGING_ADAPTERS/1521226-00-A_0_2000.jpg",
+      "type": "on the road",
+      "id": 4
+    },
+    {
+      "name": "Gen 2 Connector",
+      "description": "tut description",
+      "price": 12,
+      "picture": "https://www.tesla.com/ns_videos/commerce/content/dam/tesla/CAR_ACCESSORIES/MODEL_S/CHARGING_ADAPTERS/1512830-00-A_0_2000.jpg",
+      "type": "at home",
+      "id": 5
+    },
+    {
+      "name": "Wall Connector Glass",
+      "description": "tut description",
+      "price": 41,
+      "picture": "https://www.tesla.com/ns_videos/commerce/content/dam/tesla/CAR_ACCESSORIES/MODEL_S/CHARGING_ADAPTERS/1551813-00-A_0_2000.jpg",
+      "type": "on the road",
+      "id": 6
+    },
+    {
+      "name": "Corded Mobile Connector",
+      "description": "tut description",
+      "price": 12,
+      "picture": "https://www.tesla.com/ns_videos/commerce/content/dam/tesla/CAR_ACCESSORIES/MODEL_X/CHARGING_ADAPTERS/1106293-00-A_0.jpg",
+      "type": "at home",
+      "id": 7
+    },
+    {
+      "name": "NEMA Adapter",
+      "description": "tut description",
+      "price": 25,
+      "picture": "https://www.tesla.com/ns_videos/commerce/content/dam/tesla/CAR_ACCESSORIES/MODEL_S/CHARGING_ADAPTERS/1515100-00-A_0_2000.jpg",
+      "type": "food",
+      "id": 8
+    },
+    {
+      "name": "Gen 2 Nema Adapters",
+      "description": "tut description",
+      "price": 44,
+      "picture": "https://www.tesla.com/ns_videos/commerce/content/dam/tesla/CAR_ACCESSORIES/MODEL_S/CHARGING_ADAPTERS/1104934-10-B_0_2000.jpg",
+      "type": "at home",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "productId": "1",
+      "user": "obito@gmail.com",
+      "text": "000",
+      "id": 1
+    },
+    {
+      "productId": "1",
+      "user": "obito@gmail.com",
+      "text": "hello dude",
+      "id": 2
+    },
+    {
+      "productId": "2",
+      "user": "obito@gmail.com",
+      "text": "this is my comment",
+      "id": 3
+    },
+    {
+      "productId": "2",
+      "user": "obito@gmail.com",
+      "text": "asfasf",
+      "id": 4
+    },
+    {
+      "productId": "2",
+      "user": "obito@gmail.com",
+      "text": "hello man",
+      "id": 5
+    },
+    {
+      "productId": "2",
+      "user": "obito@gmail.com",
+      "text": "hello nurs",
+      "id": 6
+    },
+    {
+      "productId": "2",
+      "user": "obito@gmail.com",
+      "text": "asfafd\n\na\ndasf\n",
+      "id": 7
+    },
+    {
+      "productId": "2",
+      "user": "obito@gmail.com",
+      "text": "lkfnlds",
+      "id": 8
+    },
+    {
+      "productId": "2",
+      "user": "naruto@gmail.com",
+      "text": "zaryadnik horosh",
+      "id": 9
+    },
+    {
+      "productId": "1",
+      "user": "obito@gmail.com",
+      "text": "norm takoi zaryadnik",
+      "id": 10
+    },
+    {
+      "productId": "5",
+      "user": "naruto@gmail.com",
+      "text": "dsfdfs",
+      "id": 11
+    },
+    {
+      "productId": "6",
+      "user": "naruto@gmail.com",
+      "text": "rfds",
+      "id": 12
+    },
+    {
+      "productId": "6",
+      "text": "норм зарядник",
+      "id": 13
+    },
+    {
+      "productId": "5",
+      "user": "nursultan.taalaibekov@gmail.com",
+      "text": "njuf",
+      "id": 14
+    },
+    {
+      "productId": "6",
+      "user": "nursultan.taalaibekov@gmail.com",
+      "text": "jhhjqdwk",
+      "id": 15
+    }
+  ]
+}

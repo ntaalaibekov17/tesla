@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Roboto:wght@400;500&display=swap');
+.image {
+    min-height: 100vh;
+    position: relative;
+}
+
+.text-box {
+    text-align: center;
+    padding: 3rem 1rem;
+}
+.content1{
+    text-align: center;
+    margin-top: 140px;
+
+}
+.content1 h6{
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+}
+.content1 p{
+    margin-top: 15px;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+}
+.active{
+    border-bottom: 1px solid black;
+    border-bottom-width: thin;
+    cursor: pointer;
+}
+.active:hover{
+    border-bottom-width: medium;
+    transition: 0.5s;
+}
+.btn-home{
+    margin-top: 3em;
+}
+
+
+
+
+/*SCROLL SNAPPING*/
+
+/*.scroll-container,*/
+/*.scroll-area {*/
+/*    height: 100vh;*/
+/*    !*background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/32e5e0f3-5c04-42ef-8f8f-c6b1c26f8a9e/bvlatuR/std/2880x1800/ms-main-hero-desktop");*!*/
+/*    !*background-size: cover;*!*/
+/*    !*background-position: center;*!*/
+/*}*/
+
+/*.scroll-container {*/
+/*    overflow: auto;*/
+/*    scroll-snap-type: y mandatory;*/
+/*}*/
+
+/*.scroll-area{*/
+/*    scroll-snap-align: start;*/
+/*}*/
+
+
+/*.scroll-container {*/
+/*    scroll-snap-type: y proximity;*/
+/*    !* Reserve space for header plus some extra space for sneak peeking. *!*/
+/*    scroll-padding-top: 15vh;*/
+/*    overflow-y: scroll;*/
+/*}*/
+/*.scroll-area{*/
+/*    !* Snap align start. *!*/
+/*    scroll-snap-align: start;*/
+/*}*/
+
+
+
+
+
+
+

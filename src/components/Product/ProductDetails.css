@@ -1,0 +1,24 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap');*/
+/**{*/
+/*    font-family: 'Oswald', sans-serif;*/
+/*}*/
+.details{
+    color: #ccd7db;
+    font-size: 40px;
+}
+.p{
+    font-size: 30px;
+    margin-top: 15px;
+}
+.border{
+    border-top: 1px solid  #ccd7db;
+    margin-bottom: 20px;
+}
+.border-bot{
+    border-bottom: 1px solid  #ccd7db;
+    margin-top: 40px;
+}
+.sprite{
+    margin-top: 50px;
+    margin-left: 80px;
+}
